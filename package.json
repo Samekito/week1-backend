@@ -1,0 +1,16 @@
+{
+  "name": "week1-backend",
+  "version": "1.0.0",
+  "description": "Technest Week 1 - Node.js Backend",
+  "entry point": "index.js",
+  "author": "Samuel Junior",
+ 
+  "scripts": {
+    "test": "npm",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
